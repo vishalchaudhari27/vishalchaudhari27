@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/c065a339-43ce-4b0d-bb79-5acec111af65)
+
 <h1 align="center">Hi 👋, I'm Vishal Chaudhari</h1>
 
 <h3 align="center">A passionate FullStack Java Developer</h3>
