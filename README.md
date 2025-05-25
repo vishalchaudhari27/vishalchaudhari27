@@ -29,5 +29,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalchaudhari27&show_icons=true&locale=en&layout=compact" alt="vishalchaudhari27" /></p>
 
 <div align="center">
-  <img src="https://media.tenor.com/91ccw3fL6CEAAAAm/thank-you-sticker.webp" alt="Thank You" height="250" width="250" />
+  <img src="https://media.tenor.com/HfWp3sbA-VcAAAAm/oggy.webp" alt="Thank You" height="250" width="250" />
 </div>
