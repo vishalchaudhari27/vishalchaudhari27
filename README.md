@@ -23,3 +23,7 @@
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> </a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
  </p>
+
+<br></br>
+<h3 align="center">📝 Most Used Languages:</h3>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalchaudhari27&show_icons=true&locale=en&layout=compact" alt="vishalchaudhari27" /></p>
