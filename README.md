@@ -28,6 +28,9 @@
 <h3 align="center">📝 Most Used Languages:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalchaudhari27&show_icons=true&locale=en&layout=compact" alt="vishalchaudhari27" /></p>
 
+<p align="center">
+Thank you for taking the time to explore my work and projects. Your interest is truly appreciated. If you have any questions, suggestions, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
+</p>
 <div align="center">
   <img src="https://media.tenor.com/HfWp3sbA-VcAAAAm/oggy.webp" alt="Thank You" height="250" width="250" />
 </div>
