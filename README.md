@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/73654087-ed5c-458a-ac56-5155401862e6)
+![github-header-image (3)](https://github.com/user-attachments/assets/10e2bb58-2cc0-452e-88c6-21de3e551c8a)
 
 <h1 align="center">Hi 👋, I'm Vishal Chaudhari</h1>
 
