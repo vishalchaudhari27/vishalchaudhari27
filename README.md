@@ -37,6 +37,7 @@ Thank you for taking the time to explore my work and projects. Your interest is 
 <h3 align="center">💬 Favorite Quote</h3>
 <p align="center"><em>"I don't just write code. I decode problems and engineer possibilities."</em></p>
 
+<br></br>
 <div align="center">
   <img src="https://media.tenor.com/HfWp3sbA-VcAAAAm/oggy.webp" alt="Thank You" height="250" width="250" />
 </div>
