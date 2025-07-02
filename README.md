@@ -32,6 +32,10 @@
 <p align="center">
 Thank you for taking the time to explore my work and projects. Your interest is truly appreciated. If you have any questions, suggestions, or opportunities for collaboration, please don't hesitate to reach out. I'm always open to connecting with fellow developers, sharing knowledge, and contributing to meaningful projects.
 </p>
+
+
+<p align="center"><em>"I don't just write code. I decode problems and engineer possibilities."</em></p>
+
 <div align="center">
   <img src="https://media.tenor.com/HfWp3sbA-VcAAAAm/oggy.webp" alt="Thank You" height="250" width="250" />
 </div>
