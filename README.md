@@ -5,7 +5,7 @@
 <h3 align="center">A passionate FullStack Java Developer</h3>
 <p align="center">
  <b>I'm a passionate <strong>Java Backend Developer</strong> with hands-on experience building robust and scalable web applications using <strong>>Spring Boot ,Hibernate</strong> , and <Strong>MySQL/PostgreSQL</Strong>. I enjoy crafting clean, maintainable code and building systems that solve real-world problems.</b></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalchaudhari27&label=Profile%20views&color=0e75b6&style=flat" alt="vishalchaudhari27" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalchaudhari27&label=Profile%20views&color=0e75b6&style=flat" alt="vishalchaudhari27" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
